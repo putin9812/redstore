@@ -820,7 +820,7 @@ a {
   color: #ff0000;
 }
 .cid-uNVvTmM8Hu {
-  background-color: #e43f3f;
+  background-color: #000000;
 }
 .cid-uNVvTmM8Hu .mbr-fallback-image.disabled {
   display: none;
@@ -836,6 +836,10 @@ a {
 }
 .cid-uNVvTmM8Hu .mbr-section-title {
   color: #ffffff;
+}
+.cid-uNVvTmM8Hu .mbr-text,
+.cid-uNVvTmM8Hu .mbr-section-btn {
+  color: #00ffcc;
 }
 .cid-uNMEvd78Kb {
   padding-top: 0rem;
